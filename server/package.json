@@ -1,7 +1,7 @@
 {
-  "name": "final-project-mavericks",
+  "name": "StudyHub",
   "version": "1.0.0",
-  "description": "final-project-mavericks created by GitHub Classroom",
+  "description": "final-project",
   "main": "index.js",
   "engines":{
     "node": "18.12.1",
@@ -19,14 +19,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/neu-mis-info6150-fall-2022/final-project-mavericks.git"
+    "url": "git+https://github.com/ajitcp"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/neu-mis-info6150-fall-2022/final-project-mavericks/issues"
+    "url": "https://github.com/ajitcp"
   },
-  "homepage": "https://github.com/neu-mis-info6150-fall-2022/final-project-mavericks#readme",
+  "homepage": "https://github.com/ajitcp",
   "dependencies": {
     "@stripe/stripe-js": "^1.46.0",
     "bcryptjs": "^2.4.3",
